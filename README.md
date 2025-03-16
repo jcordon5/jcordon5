@@ -86,11 +86,12 @@ fn main() {
 🎯 Other Contributions: 10%
 ```
 
-### 🌍 Projects & Initiatives
+### 🌍 **Personal Projects & Initiatives**  
 
-- 🔹 **[TransparencIA](https://www.transparenc-ia.es/)** → AI-powered news analysis.
-- 🔹 **[Cliply](https://cliply.yous.dev/)** → Free Kindle highlights visualization tool.
-- 🔹 More projects & research coming soon on [yous.dev](https://yous.dev/)!
+- 🔹 **[TransparencIA](https://www.transparenc-ia.es/)** → AI-powered news analysis.  
+- 🔹 **[Cliply](https://cliply.yous.dev/)** → Free Kindle highlights visualization tool.  
+- 🔹 **[Easy Kill Switch](https://github.com/jcordon5/easy-killswitch)** → A cross-platform VPN kill switch to prevent traffic leaks.  
+- 🔹 More projects & research coming soon on [yous.dev](https://yous.dev/)!  
 
 ---
 
