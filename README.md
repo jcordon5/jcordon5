@@ -41,6 +41,7 @@
 ### 🚀 About Me
 - 🏫 **PhD Candidate** in Computer Engineering at **University of Salamanca**
 - 🔬 **Expert in AI solutions for advanced cyber defense**
+- 🍽️ Co-founder of [TuQR](https://tuqr.es/)
 - 💡 Co-founder & CTO of [Transparenc-IA](https://www.transparenc-ia.es/)
 - 💻 Passionate about personal projects
 - ✍️ Tech blog & projects coming soon at [yous.dev](https://yous.dev/)
@@ -88,6 +89,7 @@ fn main() {
 
 ### 🌍 **Personal Projects & Initiatives**  
 
+- 🔹 **[TuQR](https://tuqr.es/)** → Intelligent QR code advertising platform.
 - 🔹 **[TransparencIA](https://www.transparenc-ia.es/)** → AI-powered news analysis.  
 - 🔹 **[Cliply](https://cliply.yous.dev/)** → Free Kindle highlights visualization tool.  
 - 🔹 **[Easy Kill Switch](https://github.com/jcordon5/easy-killswitch)** → A cross-platform VPN kill switch to prevent traffic leaks.  
