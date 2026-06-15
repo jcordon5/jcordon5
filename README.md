@@ -44,7 +44,7 @@
 - 🍽️ Co-founder of [TuQR](https://tuqr.es/)
 - 💡 Co-founder & CTO of [Transparenc-IA](https://www.transparenc-ia.es/)
 - 💻 Passionate about personal projects
-- ✍️ Tech blog & projects coming soon at [yous.dev](https://yous.dev/)
+- ✍️ Blog & projects at [yous.dev](https://yous.dev/blog)
 
 ---
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> My Tech Stack  
@@ -93,7 +93,7 @@ fn main() {
 - 🔹 **[TransparencIA](https://www.transparenc-ia.es/)** → AI-powered news analysis.  
 - 🔹 **[Cliply](https://cliply.yous.dev/)** → Free Kindle highlights visualization tool.  
 - 🔹 **[Easy Kill Switch](https://github.com/jcordon5/easy-killswitch)** → A cross-platform VPN kill switch to prevent traffic leaks.  
-- 🔹 More projects & research coming soon on [yous.dev](https://yous.dev/)!  
+- 🔹 More projects & research on [yous.dev](https://yous.dev/)!  
 
 ---
 
