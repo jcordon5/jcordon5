@@ -9,8 +9,8 @@
   <img align="right" src="https://media.giphy.com/media/6FT3QE3AJMfwJDZBNr/giphy.gif?cid=ecf05e476s0vjtlp6t2a2sh43mrg7glyyhoipvhg2wy573e1&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="300">
   
   <p>
-    <em>Researcher in Cybersecurity & AI at  
-    <a href="https://bisite.usal.es/">BISITE Research Group</a>, University of Salamanca</em>  
+    <em>AI Analyst at <a href="https://www.unicaja.es/">Unicaja</a>  
+    &middot; PhD candidate in AI at the University of Salamanca</em>  
     <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
   </p>
 
@@ -23,7 +23,7 @@
       <img src="https://img.shields.io/badge/HuggingFace-ffcc4d?style=flat-square&logo=HuggingFace&logoColor=black"/>
     </a>
     <a href="https://yous.dev/">
-      <img src="https://img.shields.io/badge/Website%20(soon!)-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white"/>
     </a>
   </p>
 
@@ -39,7 +39,8 @@
 ---
 
 ### 🚀 About Me
-- 🏫 **PhD Candidate** in Computer Engineering at **University of Salamanca**
+- 💼 **AI Analyst at [Unicaja](https://www.unicaja.es/)** — applying conversational AI in banking, with a focus on cybersecurity
+- 🏫 **PhD Candidate** in AI at the **University of Salamanca**
 - 🔬 **Expert in AI solutions for advanced cyber defense**
 - 🍽️ Co-founder of [TuQR](https://tuqr.es/)
 - 💡 Co-founder & CTO of [Transparenc-IA](https://www.transparenc-ia.es/)
@@ -47,33 +48,23 @@
 - ✍️ Blog & projects at [yous.dev](https://yous.dev/blog)
 
 ---
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> My Tech Stack  
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Prompt Me  
 
-```rust
-fn main() {
-    let jcordon5 = Profile {
-        pronouns: ("He", "Him"),
-        code: vec!["Python", "Shell", "Rust", "C"],
-        expertise: vec!["Cybersecurity", "Machine Learning", "Generative AI"],
-        technologies: Technologies {
-            ai_ml: vec!["PyTorch", "TensorFlow", "Scikit-Learn"],
-            cybersecurity: vec![
-                "Anomaly Detection",
-                "Threat Prediction",
-                "AI Multi-Agent Systems",
-                "Attack Mitigation",
-            ],
-            dev_ops: vec!["Docker", "CI/CD"],
-            sys_admin: vec![ "Server Management", "Proxmox", "Cloudflare", "NGINX", "Apache", "Monitoring" ],
-            databases: vec!["PostgreSQL", "MongoDB", "Redis"],
-            misc: vec!["FastAPI", "Kafka", "Celery"],
-        },
-        current_focus: "Developing AI-driven solutions for cybersecurity",
-        fun_fact: "AI is only as strong as the data it learns from!",
-    };
+```text
+<|im_start|>system
+You are Jose (a.k.a. jcordon5): AI Analyst @ Unicaja, PhD candidate in AI.
+Specialty: AI applied to cybersecurity — you turn LLMs and agents into
+something a bank can actually trust.
 
-    println!("{} is currently focused on: {}", jcordon5.pronouns.0, jcordon5.current_focus);
-}
+  expertise:  [ Cybersecurity, Machine Learning, Generative AI, Agentic AI ]
+  stack:      [ Python, FastAPI, PyTorch, Docker, PostgreSQL, Redis, Kafka ]
+  defense:    [ anomaly detection, threat prediction, prompt-injection defense,
+                multi-agent systems, attack mitigation ]
+  principles: verify everything · ship what runs · privacy by default
+<|im_end|>
+<|im_start|>user
+What are you building today?<|im_end|>
+<|im_start|>assistant
 ```
 
 ---
@@ -81,14 +72,16 @@ fn main() {
 📅 **Time Spent on Projects**
 
 ```text
-🔬 Cybersecurity AI Research & Development: 40%
-📚 PhD Studies: 30%
-🛠 Personal Projects: 20%
-🎯 Other Contributions: 10%
+💼 AI for cybersecurity @ Unicaja: 45%
+📚 PhD Studies: 25%
+🛠 Personal Projects: 25%
+🎯 Other Contributions: 5%
 ```
 
 ### 🌍 **Personal Projects & Initiatives**  
 
+- 🔹 **[ReadIt](https://readit.es/)** → A privacy-first Spanish reading community — read more, not scroll more.
+- 🔹 **[AI agent skills](https://github.com/search?q=user%3Ajcordon5+topic%3Askill&type=repositories)** → Composable, open-source skills that extend coding agents.
 - 🔹 **[TuQR](https://tuqr.es/)** → Intelligent QR code advertising platform.
 - 🔹 **[TransparencIA](https://www.transparenc-ia.es/)** → AI-powered news analysis.  
 - 🔹 **[Cliply](https://cliply.yous.dev/)** → Free Kindle highlights visualization tool.  
