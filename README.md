@@ -42,8 +42,6 @@
 - 💼 **AI Analyst at [Unicaja](https://www.unicaja.es/)** — applying conversational AI in banking, with a focus on cybersecurity
 - 🏫 **PhD Candidate** in AI at the **University of Salamanca**
 - 🔬 **Expert in AI solutions for advanced cyber defense**
-- 🍽️ Co-founder of [TuQR](https://tuqr.es/)
-- 💡 Co-founder & CTO of [Transparenc-IA](https://www.transparenc-ia.es/)
 - 💻 Passionate about personal projects
 - ✍️ Blog & projects at [yous.dev](https://yous.dev/blog)
 
@@ -82,6 +80,8 @@ What are you building today?<|im_end|>
 
 - 🔹 **[ReadIt](https://readit.es/)** → A privacy-first Spanish reading community — read more, not scroll more.
 - 🔹 **[AI agent skills](https://github.com/search?q=user%3Ajcordon5+topic%3Askill&type=repositories)** → Composable, open-source skills that extend coding agents.
+- 🔹 **[iOS Shortcuts](https://atajos.yous.dev)** → Free iOS Shortcuts crafted by me.
+- 🔹 **[Kissaten](https://kissaten.es/)** → Your AI Powered daily morning newspaper, waiting for you on your Kindle.
 - 🔹 **[TuQR](https://tuqr.es/)** → Intelligent QR code advertising platform.
 - 🔹 **[TransparencIA](https://www.transparenc-ia.es/)** → AI-powered news analysis.  
 - 🔹 **[Cliply](https://cliply.yous.dev/)** → Free Kindle highlights visualization tool.  
